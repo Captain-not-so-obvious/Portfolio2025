@@ -45,22 +45,22 @@ $(document).ready(function() {
   
 
     //Initial content revealing js
-    ScrollReveal({
+       ScrollReveal({
       distance: "100px",
       duration: 2000,
       delay: 200
     });
   
-    ScrollReveal().reveal(".header a, .profile-photo, .about-content, .education", {
+    ScrollReveal().reveal(".header a, .profile-photo, .conteudo-sobre, .educacao", {
       origin: "left"
     });
-    ScrollReveal().reveal(".header ul, .profile-text, .about-skills, .internship", {
+    ScrollReveal().reveal(".header ul, .profile-text, .habilidades-sobre, .ferramentas", {
       origin: "right"
     });
-    ScrollReveal().reveal(".project-title, .contact-title", {
+    ScrollReveal().reveal(".projetos-titulo, .contato-titulo", {
       origin: "top"
     });
-    ScrollReveal().reveal(".projects, .contact", {
+    ScrollReveal().reveal(".projetos, .contato", {
       origin: "bottom"
     });
 
