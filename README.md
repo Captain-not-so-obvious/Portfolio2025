@@ -1,4 +1,4 @@
-# Portfolio2025
+# Portfolio
 
 Website portfólio pessoal responsivo desenvolvido com HTML, CSS e JavaScript, apresentando informações profissionais, projetos e formulário de contato.
 
